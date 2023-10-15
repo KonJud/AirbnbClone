@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div className={"text-3xl "}>
-      hello Airbnb
+    <div className={" "}>
+    
     </div>
   )
 }
