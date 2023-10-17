@@ -1,0 +1,3 @@
+npm insall zustand
+npm install axios
+npm install react-hook-form
