@@ -2,3 +2,10 @@ npm insall zustand
 npm install axios
 npm install react-hook-form
 npm insall react-hot-toast
+npm i -D prisma
+npx prisma init
+npx prisma db push
+npm install @prisma/client @auth/prisma-client
+npm install bcrypt
+
+https://authjs.dev/reference/adapter/prisma
